@@ -26,7 +26,7 @@ Every button might be a trick. Every decision matters. And just when you think y
 
 ## 🔗 Play the Game
 
-**Google Slides:** [Play THIS GAME HATES U](PASTE_YOUR_GOOGLE_SLIDES_LINK_HERE)
+**Google Slides:** [Play THIS GAME HATES U](https://docs.google.com/presentation/d/1N_yCOticfhFU6_lz2435EZYb_HdbBl0VcvWPAh6UA90/edit?usp=sharing)
 
 ## 🛠️ Built With
 
